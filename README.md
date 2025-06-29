@@ -38,13 +38,11 @@ This project implements a **menu-driven calculator** using **Client-Server archi
 ---
 
 ## 📂 File Structure
-
-
-
-
-
-
-
+```
+├── CalculatorClient.java # Contains client-side logic and UI
+├── CalculatorServer.java # Contains server-side arithmetic logic
+└── README.md # Project documentation
+```
 
 ---
 
@@ -57,13 +55,14 @@ One for the server, and one for the client.
 ```bash
 javac CalculatorServer.java
 javac CalculatorClient.java
+```
 
-> Run the server first:
+### 🚀 3. Run the server first:
 ```bash
 java CalculatorServer
+```
 
-> Then run the client in the other terminal
+### 💻 4. Then run the client in the other terminal:
 ```bash
 java CalculatorClient
-
-
+```
