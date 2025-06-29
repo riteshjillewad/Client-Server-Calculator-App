@@ -39,3 +39,31 @@ This project implements a **menu-driven calculator** using **Client-Server archi
 
 ## 📂 File Structure
 
+
+
+
+
+
+
+
+---
+
+## 🔧 How to Compile and Run
+
+### 🖥️ 1. Open two terminal windows:
+One for the server, and one for the client.
+
+### 📥 2. Compile the files:
+```bash
+javac CalculatorServer.java
+javac CalculatorClient.java
+
+> Run the server first:
+```bash
+java CalculatorServer
+
+> Then run the client in the other terminal
+```bash
+java CalculatorClient
+
+
