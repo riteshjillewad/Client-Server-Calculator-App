@@ -1,4 +1,4 @@
-# 🧮 Client-Server-Calculator-App
+# 🧮 Client Server Calculator App
 
 This project implements a **menu-driven calculator** using **Client-Server architecture** with **Java Sockets**. It allows two-way communication between a client and a server, where the client sends arithmetic operation requests, and the server processes them and returns the result.
 
